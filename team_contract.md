@@ -2,7 +2,7 @@
 
 ## Communication
 1. **Team Meetings** 
-We will likely meet at least every Tuesday for at least an hour. We won't use any software as we plan to meet in person for our meetings. We do not plan to take notes generally, but if we have an idea or topic we would need to circle back to at a later occasion, we could message the idea to the group during the meeting if needed.
+We will likely meet at least every Tuesday for at least 2 to 3 hours. We won't use any software as we plan to meet in person for our meetings. We do not plan to take notes generally, but if we have an idea or topic we would need to circle back to at a later occasion, we could message the idea to the group during the meeting if needed.
 
 2. **Assistance** 
 We are all able to call and text each other on various platforms, so there should be no issue when trying to reach the other members. We all have various classes and other responsibilities, so it is expected that people should respond within 8 hours or less if possible.
