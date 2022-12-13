@@ -12,10 +12,4 @@ Output: A vector of strings containing the names of the airports one would have 
 Correctness: We went through our dataset and selected two airports and figured out what the shortest flight path was between the two. When we then put the aiports into our main.cpp file to test the functionality, it returned the correct route which we had intended. If there are multiple paths, and a direct route is available, the code correctly returns the direct path from one airport to the other. 
 
 
-BFS:
-
-Output: 
-
-Correctness:
-
 Answer to leading question: Our leading question was to find the shortest/best path for a passenger to travel from one location to another. The code that we have managed to write implements this, and it also follows the time complexity that we had proposed in our proposal. The Floyd Warshall gives us the shortest distance between any two airports that has a path, as the A* star Algortihm shows us the path that we take to reach our destination. The A* star algorithm, has a shorter run-time, so our code has been compiled in a way that the other functions and algorithms, will be taken into use only if and when needed. 
